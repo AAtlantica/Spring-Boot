@@ -14,7 +14,7 @@ Observaciones: Dado que @Repository, @Service, @Configuration y @Controller son 
 - Cuando usamos un framework de persistencia como Hibernate, las excepciones nativas lanzadas dentro de estas clases se traduciran en subclases de DataAccesoException de Spring.
 
 ## @Service
-- La lógica de negocioes de una aplicación generalmente reside dentro de la capa de servicios.
+- La lógica de negocios de una aplicación generalmente reside dentro de la capa de servicios.
 
 ## @RestController
 - Es una anotación de nivel de clase que le dice a Spring Boot que esta clase sirve como controlador en nuestra API REST
