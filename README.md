@@ -3,7 +3,7 @@
 - Esta anotación única es equivalente a usar @Configuration, @EnableAutoConfiguration y @ComponentScan.
 - Con esta anotación escanea de manera automática un paquete en busca de beans.
 
-# Anotaciones
+# Anotaciones de Clases
 Observaciones: Dado que @Repository, @Service, @Configuration y @Controller son meta-anotaciones de @Component, comparten el mismo comportamiento de nomenclatura de beans.
 
 ## @Component
